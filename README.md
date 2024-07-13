@@ -1,4 +1,4 @@
 # Sudoku Game
 <div align="center">
-    <img src="game.jpg" alt="Sudoku">
+    <img src="game.png" alt="Sudoku">
 </div>
